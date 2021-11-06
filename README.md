@@ -19,6 +19,22 @@ Here are some ideas to get you started:
 Check out links below to know more about me:
 
 📝 Blogs
-Personal website and blog: 
-Notes of AWS Solution Architecture - Associate: 
-[WIP] LeetCode Solutions & Notes:
+My Personal website 
+My blog: 
+
+Notes:
+
+Toolbox:
+📺 Latest YouTube Videos
+
+📘 Latest Blog Articles
+
+💻 Technologies I Love
+
+Azure Kubernetes Service
+Ansible
+Terraform
+Cloudera Hadoop Administration.
+Hortonworks Hadoop Administration
+NiFi
+
