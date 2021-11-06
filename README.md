@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 Check out links below to know more about me:
 
+Certifications:
+
 📝 Blogs
 My Personal website 
 My blog: 
@@ -37,4 +39,5 @@ Terraform
 Cloudera Hadoop Administration.
 Hortonworks Hadoop Administration
 NiFi
+
 
