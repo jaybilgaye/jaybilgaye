@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 Check out links below to know more about me:
 
 Certifications:
+*Certified Kubernetes Administrator (CKA)
+*Certified Azure Administrator (AZ104)
+*Hortonworks certified Hadoop Administrator (HDPCA)
+*Cloudera Certified Hadoop Administrator (CCAH)
+
+
 
 📝 Blogs
 My Personal website 
@@ -28,8 +34,10 @@ Notes:
 
 Toolbox:
 📺 Latest YouTube Videos
+ - https://www.youtube.com/channel/UC_f_3OYbQkLrapxhezxKg6Q
 
 📘 Latest Blog Articles
+ - https://medium.com/@jayprakash.bilgaye
 
 💻 Technologies I Love
 
