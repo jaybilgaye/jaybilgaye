@@ -41,11 +41,16 @@ Toolbox:
 
 💻 Technologies I Love
 
-Azure Kubernetes Service
-Ansible
-Terraform
-Cloudera Hadoop Administration.
-Hortonworks Hadoop Administration
-NiFi
+*Azure Kubernetes Service
+
+*Ansible
+
+*Terraform
+
+*Cloudera Hadoop Administration.
+
+*Hortonworks Hadoop Administration
+
+*NiFi
 
 
