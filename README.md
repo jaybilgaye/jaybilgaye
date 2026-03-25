@@ -1,56 +1,57 @@
+# Hey, I'm Jay 👋
 
-<!--
-**jaybilgaye/jaybilgaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Platform Engineer** who's spent 15+ years keeping Kafka, ClickHouse, and Hadoop alive at scale across enterprise production environments.
 
-Here are some ideas to get you started:
+I work at the intersection of big data infrastructure, site reliability, and observability — making sure clusters stay up, pipelines keep flowing, and incidents get shorter every time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jay Bilgaye!
+---
 
+### 🔧 What I Work With
 
-Check out links below to know more about me:
+```
+Streaming & Data    → Kafka, ClickHouse, Hadoop, NiFi, Spark, Flink, Iceberg
+Observability       → Prometheus, Grafana, JMX Exporter, Elasticsearch
+Cloud & Infra       → AWS, Azure, GCP, Kubernetes, Docker, Terraform
+Security            → TLS/SSL, Kerberos, Ranger, LDAP, ACL Management
+DevOps              → Ansible, GitLab, Jenkins, CI/CD, Python, Shell
+AI Dev Tools        → Cursor, GitHub Copilot, Claude
+```
 
-Certifications:
-*Certified Kubernetes Administrator (CKA)
-*Certified Azure Administrator (AZ104)
-*Hortonworks certified Hadoop Administrator (HDPCA)
-*Cloudera Certified Hadoop Administrator (CCAH)
+---
 
+### ✍️ I Write & Talk About This Stuff
 
+- [**YouTube**](https://www.youtube.com/channel/UC_f_3OYbQkLrapxhezxKg6Q) — Tutorials, walkthroughs & platform engineering content
+- [**@jayprakash.bilgaye**](https://medium.com/@jayprakash.bilgaye) — Kafka, ClickHouse, platform engineering
+- [**CloudScoop**](https://medium.com/cloudscoop) — Cloud infrastructure & big data
+- [**Udemy Course**](https://www.udemy.com/) — Azure Kubernetes Service: A Beginner's Guide with Hands-on
 
-📝 Blogs
-My Personal website 
-My blog: 
+---
 
-Notes:
+### 📜 Certifications
 
-Toolbox:
-📺 Latest YouTube Videos
- - https://www.youtube.com/channel/UC_f_3OYbQkLrapxhezxKg6Q
+`CKA` · `AZ-104` · `CCAH` · `HDPCA` · `RHCE`
 
-📘 Latest Blog Articles
- - https://medium.com/@jayprakash.bilgaye
+---
 
-💻 Technologies I Love
+### 🧭 Career Snapshot
 
-*Azure Kubernetes Service
+- **Telstra** — Senior Solution Specialist / Platform Engineer *(2022–Present)*
+- **Clairvoyant** — Senior Engineer, Cloud & Ops *(2017–2022)*
+- **Persistent Systems** — Module Lead, DevOps / Hadoop *(2014–2017)*
+- **Cognizant** — Programmer Analyst *(2010–2014)*
 
-*Ansible
+---
 
-*Terraform
+### 📫 Let's Connect
 
-*Cloudera Hadoop Administration.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-bilgaye/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_f_3OYbQkLrapxhezxKg6Q)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jayprakash.bilgaye)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jaybilgaye@gmail.com)
 
-*Hortonworks Hadoop Administration
+---
 
-*NiFi
-
-
+<p align="center">
+  <i>The best monitoring setups come from engineers who've been paged at 3am.</i>
+</p>
