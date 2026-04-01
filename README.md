@@ -1,6 +1,6 @@
 # Hey, I'm Jay 👋
 
-**Platform Engineer** who's spent 15+ years keeping Kafka, ClickHouse, and Hadoop alive at scale across enterprise production environments.
+** Engineer** who's spent 15+ years keeping Kafka, ClickHouse, and Hadoop alive at scale across enterprise production environments.
 
 I work at the intersection of big data infrastructure, site reliability, and observability — making sure clusters stay up, pipelines keep flowing, and incidents get shorter every time.
 
