@@ -39,7 +39,7 @@ AI Dev Tools        → Cursor, Claude
 - [**YouTube**](https://www.youtube.com/channel/UC_f_3OYbQkLrapxhezxKg6Q) — tutorials, walkthroughs & platform engineering content
 - [**@jayprakash.bilgaye**](https://medium.com/@jayprakash.bilgaye) — Kafka, ClickHouse, platform engineering
 - [**CloudScoop**](https://medium.com/cloudscoop) — cloud infrastructure & big data
-- [**Udemy Course**](https://www.udemy.com/) — Azure Kubernetes Service: A Beginner's Guide with Hands-on
+- [**TutorialsPoint Course**](https://market.tutorialspoint.com/course/azure-kubernetes-service/index.asp) — Azure Kubernetes Service: A Beginner's Guide with Hands-on
 
 ---
 
