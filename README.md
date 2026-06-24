@@ -25,7 +25,7 @@ AI Dev Tools        → Cursor, Claude
 
 ### 🚀 What I'm Building (open source)
 
-- **KafkaGuard** —  Kafka security & compliance scanner software ; ~55 controls mapped to PCI-DSS, SOC 2 and ISO 27001
+- [**KafkaGuard**](https://kafkaguard.com) —  Kafka security & compliance scanner software ; ~55 controls mapped to PCI-DSS, SOC 2 and ISO 27001
 - **APRA Conformance Pack for AWS Config** — CPS 234 / CPS 230 rules mapped paragraph-by-paragraph; replaces AWS's ~4-year-stale pack
 - **Steampipe / Powerpipe APRA mod** — Australian financial-services compliance as queryable code
 - **APRA Compliance Narrator** — turns AWS security findings into APRA-paragraph narrative reports on Amazon Bedrock
