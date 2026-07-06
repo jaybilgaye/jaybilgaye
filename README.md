@@ -1,6 +1,6 @@
 # Hey, I'm Jay 👋
 
-**Senior Cloud / DevOps Engineer** — 15+ years building and running distributed platforms at scale, now focused on **AWS, platform engineering, and reliability**.
+**Senior Cloud / DevOps Engineer** — 15+ years building and running distributed platforms at scale, now focused on **AWS, Data  engineering, and reliability**.
 
 I build and operate AWS cloud platforms — containers, serverless, and the CI/CD and infrastructure-as-code that ship them safely — and I keep clusters up, pipelines flowing, and incidents short. Security hardening is baked into everything I run, not bolted on after.
 
